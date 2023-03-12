@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Resume</title>
+    <link rel="stylesheet" href="resume_style.css" type="text/css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+        crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+    <div id="main_container" class="container">
+        <div  class="row ">
+            <div  class="col-lg-7 col-md-7 col-12 text-center">
+                <img src="resume.jpg" alt="My photo">
+                <h1 style="color: aliceblue;">KATERYNA VILNER</h1>
+                <h5 style="color: powderblue;">Full Stack Java Developer</h5>
+            </div>
+            <div id="contact" class="col-lg-5 col-md-5 col-12">
+               <span>Adress:</span> West Palm Beach, Florida 33417<br>
+               <span>Phone:</span> (561) 403-3670<br>
+               <span>Email:</span> katerynavilner@gmail.com<br>
+               <span>LinkedIn:</span><a href="https://www.linkedin.com/in/katerynavilner"> www.linkedin.com/in/katerynavilner</a> <br>
+               <span>GitHub:</span><a href="https://github.com/KaterynaVilner"> github.com/KaterynaVilner</a><br>
+               <span>CodePen:</span><a href=" https://codepen.io/kateryna-vilner"> codepen.io/kateryna-vilner</a> <br>
+               <span>HackerRank:</span><a href="https://www.hackerrank.com/katerynavilner"> www.hackerrank.com/katerynavilner</a> <br>
+
+            </div>
+        </div>
+        <div class="row">
+            <div id="summary" class="col-12">
+                <p>I am a creative individual and an avid learner who can speak 4 languages . I have 5 years of
+                    experience
+                    in healthcare where
+                    I gained skills in time-management, adaptability, perseverance and problem solving.
+                    In 2020, I became interested in how to build websites. Therefore, I completed a HTML5 and
+                    CSS Fundamentals course from W3C and then graduated from PC Professor, WebMastering course. At this
+                    moment I am a student
+                    of Per Scholas Full Stack Development course that includes Java, SQL, Front-end development(HTML,
+                    JavaScript, CSS, Bootstrap),
+                    Agile project management, microservices, Java EE and Spring Boot. My goal is to become a Full Stack
+                    Java
+                    Developer.
+                </p>
+                <hr>
+            </div>
+        </div>
+        <div class="row">
+            <div id="EdEm" class="col-lg-8 col-md-8 col-12">
+                <div  style="background-color: dimgray;"><h5 style="padding: 2px;">
+                    <SPAN>EDUCATION</SPAN></h5></div>
+                <div>
+                    <h5><span > Per Scholas</span> <span style="float:right; color:darkgray;">2022-2023</span></h5>
+                    <i style="color: powderblue;">Full Stack Java Development</i>
+                    <p>A course powered by TEKsystem, 540+ hours of java developer training along with professional development
+                     over 18 weeks, culminating in deploying an original web application. Skills: Front-end (HTML/CSS/Javascript/Bootstrap), 
+                     Back-end (Java/Maven/SQL), and frameworks (Scrum/Agile)</p>
+                     <hr>
+                </div>
+                <div>
+                    <h5><span > PC Professor</span> <span style="float:right; color:darkgray;">2021-2022</span></h5>
+                    <i style="color: powderblue;">Web Mastering</i>
+                    <p>A 18 weeks course, that empowers new webmasters with the skills required to run and manage a successful website.
+                        Skills: Adobe Photoshop, Adobe Illustrator, SEO, digital marketing, HTML, CSS, JavaScript.
+                    </p>
+                    <hr>
+                </div>
+                <div>
+                    <h5><span > Boris Grinchenko University</span> <span style="float:right; color:darkgray;">2009-2012</span></h5>
+                    <i> Institute of Philology, Kyiv, Ukraine</i>
+                    <div>Majoring in English</div>
+                </div>
+                <div class="bar" style="background-color: dimgray;"><h5 style="padding: 2px;">
+                    <span>EMPLOYMENT</span></h5></div>
+                <div>
+                    <h5><span >Amicable Home Health Care</span> <span style="float:right; color:darkgray;">2017-2022</span></h5>
+                    <i style="color: powderblue;">Caregiver</i>
+                    <ul style="margin-top: 2%;">
+                        <li>Perform cooking and cleaning</li>
+                        <li>Provide transportation to clients</li>
+                        <li>Help with personal hygiene and care</li>
+                    </ul>
+                    <hr>
+                </div>
+                <div>
+                    <h5><span >Mama Bella Gourmet Market</span> <span style="float:right; color:darkgray;">2021</span></h5>
+                    <i style="color: powderblue;">Store Associate – Cashier</i>
+                    <ul style="margin-top: 2%;">
+                        <li>Registers sales on a cash register by scanning items, itemizing and totaling customer's purchases</li>
+                        <li>Stocking products on  the shelves</li>
+                        <li>Resolves customer issues and answers questions</li>
+                    </ul>
+                    <hr>
+                </div>
+                <div>
+                    <h5><span >Meal Wiser</span> <span style="float:right; color:darkgray;">2016</span></h5>
+                    <i style="color: powderblue;">Content Manager</i>
+                    <ul style="margin-top: 2%;">
+                        <li>Editing contents for the mobile app</li>
+                        <li>Sourcing information</li>
+                        <li>Sorting the information</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-12">
+                <div>
+                    <h5><span class="skills">PROGRAMMING SKILLS</span></h5>
+                    <div class="tag">Java</div>
+                    <div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">           
+                        <div class="progress-bar" style="width: 75%">75%</div>
+                    </div>
+                    <div class="tag">SQL</div>
+                    <div class="progress" role="progressbar" aria-label="Info example" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+                        <div class="progress-bar bg-info" style="width: 90%">90%</div>
+                      </div>
+                    <div class="tag">HTML</div>
+                    <div class="progress" role="progressbar" aria-label="Success example" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                        <div class="progress-bar bg-success" style="width: 85%">85%</div>
+                      </div>
+                    <div class="tag">CSS</div>
+                    <div class="progress" role="progressbar" aria-label="Warning example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+                        <div class="progress-bar bg-warning" style="width: 90%">90%</div>
+                      </div>
+                    <div class="tag">JavaScript</div>
+                    <div class="progress" role="progressbar" aria-label="Danger example" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                        <div class="progress-bar bg-danger" style="width: 60%">60%</div>
+                      </div>
+                    <div class="tag">Maven/Hibernate</div>
+                    <div class="progress" role="progressbar" aria-label="Info striped example" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+                        <div class="progress-bar progress-bar-striped bg-info" style="width: 75%">75%</div>
+                      </div>
+                </div>
+                <div>
+                    <h5 class="skills"><span>OTHER SKILLS</span></h5>
+                   <p><span class="badge text-bg-info">&nbsp</span>  Adobe Photoshop</p>
+                    <p><span class="badge text-bg-success">&nbsp</span>  Adobe Illustrator</p>
+                    <p><span class="badge text-bg-danger">&nbsp</span>  Google Analytics</p>
+                    <p><span class="badge text-bg-warning">&nbsp</span>  SEO</p>
+                    <p><span class="badge text-bg-secondary">&nbsp</span>  Microsoft Office</p>
+
+                </div>
+                <div>
+                    <h5 class="skills"><span>LANGUAGE SKILLS</span></h5>
+                    <div>English</div>
+                    <div class="progress" role="progressbar" aria-label="Success example" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                        <div class="progress-bar bg-success" style="width: 85%">85%</div>
+                      </div>
+                      <div>Ukrainian</div>
+                      <div class="progress" role="progressbar" aria-label="Warning example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+                        <div class="progress-bar bg-warning" style="width: 95%">95%</div>
+                      </div>
+                    <div>Russian</div>
+                    <div class="progress" role="progressbar" aria-label="Danger example" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                        <div class="progress-bar bg-danger" style="width: 95%">95%</div>
+                      </div>
+                    <div>Japanese</div>
+                    <div class="progress" role="progressbar" aria-label="Example with label" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">           
+                        <div class="progress-bar" style="width: 55%">55%</div>
+                    </div>
+
+
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

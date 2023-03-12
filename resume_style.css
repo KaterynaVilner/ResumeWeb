@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+
+img{
+    float: left;
+    max-width: 30%;
+     height: auto;
+     margin: 2%;
+}
+#summary{padding-top: 2%;}
+#contact{padding-top: 3%;}
+#main_container{margin-top: 2%;padding: 2%; background-color: rgb(53, 51, 51); color: darkgray;}
+span{color: aliceblue;}
+.tag{margin-top: 2%}
+.skills{margin-top: 7%;}
+.bar{margin-top: 4%;}
+#EdEm{padding-right: 6%;}
